@@ -1,6 +1,6 @@
 ### Hey there! Nice to see you here! 👋
 
-This page will be updated very soon
+This page will be updated soon
 
 Here are some ideas to get you started: .
 
