@@ -3,7 +3,7 @@
 ### My latest projects...
 
 <h3><a href="https://foodrecipes4u.com" rel="nofollow">foodrecipes4u.com</a></h3>
-![Foodrecipes4u.com ](foodrecipe4u.png?raw=true "Title")
+
 <h3><a href="https://pcrepairme.com" rel="nofollow">pcrepairme.com</a></h3>
 
 <h3><a href="https://al-amili.com" rel="nofollow">al-amili.com</a></h3>
