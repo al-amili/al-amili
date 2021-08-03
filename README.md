@@ -3,8 +3,8 @@
 ### My latest projects...
 
 <h3><a href="https://foodrecipes4u.com" rel="nofollow">foodrecipes4u.com</a></h3>
-![Screenshot 2020-02-09 at 5 08 54 PM](https://github.com/al-amili/al-amili/blob/main/foodrecipes4u.png)
-<a class="js-navigation-open Link--primary" title="foodrecipes4u.png" data-pjax="#repo-content-pjax-container" href="/al-amili/al-amili/blob/main/foodrecipes4u.png">foodrecipes4u.png</a>
+<img src="https://github.com/al-amili/al-amili/blob/main/food.jpg" alt="" style="max-width:100%;">
+
 <h3><a href="https://pcrepairme.com" rel="nofollow">pcrepairme.com</a></h3>
 
 <h3><a href="https://al-amili.com" rel="nofollow">al-amili.com</a></h3>
