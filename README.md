@@ -1,6 +1,12 @@
 ### Hey there! Nice to see you here! 👋
 
-This page will be updated soon
+### My latest projects...
+
+<h3><a href="https://foodrecipes4u.com" rel="nofollow">foodrecipes4u.com</a></h3>
+
+<h3><a href="https://pcrepairme.com" rel="nofollow">pcrepairme.com</a></h3>
+
+<h3><a href="https://al-amili.com" rel="nofollow">al-amili.com</a></h3>
 
 Here are some ideas to get you started: .
 
